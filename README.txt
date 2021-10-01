@@ -1,0 +1,1 @@
+Quasi tout se passe dans le config.lua sauf pour le richpresence
