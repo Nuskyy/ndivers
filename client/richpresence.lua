@@ -27,7 +27,7 @@ Citizen.CreateThread(function()
 			end
 		end
 
-        SetDiscordRichPresenceAction(1, "Discord OSA", "https://discord.gg/2jaanjmuH5")
+        SetDiscordRichPresenceAction(1, "Discord", "https://discord.gg/")
 
         -- It updates every minute just in case.
 		Citizen.Wait(500)
